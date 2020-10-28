@@ -13,8 +13,11 @@
     "expo-sharing": "~8.4.1",
     "expo-status-bar": "~1.0.2",
     "react": "16.13.1",
+    "react-color": "^2.18.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
+    "react-native-color-picker": "^0.6.0",
+    "react-native-color-picker-light": "^1.0.1",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
